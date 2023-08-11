@@ -1,0 +1,194 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/4262432.png",
+                "type": "image",
+                "key": "4262432"
+            },
+            {
+                "url": "assets/Animations/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": [
+                    "assets/sounds/backgroundMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "backgroundMusic"
+            },
+            {
+                "url": "assets/images/box.png",
+                "type": "image",
+                "key": "box"
+            },
+            {
+                "url": "assets/images/box1.png",
+                "type": "image",
+                "key": "box1"
+            },
+            {
+                "url": "assets/images/box2.png",
+                "type": "image",
+                "key": "box2"
+            },
+            {
+                "url": [
+                    "assets/sounds/deadFish.wav"
+                ],
+                "type": "audio",
+                "key": "deadFish"
+            },
+            {
+                "url": "src/scenes/prefabs/EarthWorm.js",
+                "type": "script",
+                "key": "EarthWorm"
+            },
+            {
+                "url": "assets/images/earthworm1.png",
+                "type": "image",
+                "key": "earthworm1"
+            },
+            {
+                "url": "assets/images/earthworm2.png",
+                "type": "image",
+                "key": "earthworm2"
+            },
+            {
+                "url": "assets/images/earthworm3.png",
+                "type": "image",
+                "key": "earthworm3"
+            },
+            {
+                "url": "assets/images/fish-eat-fish.png",
+                "type": "image",
+                "key": "fish-eat-fish"
+            },
+            {
+                "url": [
+                    "assets/sounds/fishEat.wav"
+                ],
+                "type": "audio",
+                "key": "fishEat"
+            },
+            {
+                "url": "src/scenes/prefabs/Fishes.js",
+                "type": "script",
+                "key": "Fishes"
+            },
+            {
+                "url": "assets/images/fishFour.png",
+                "type": "image",
+                "key": "fishFour"
+            },
+            {
+                "url": "assets/images/fishOne.png",
+                "type": "image",
+                "key": "fishOne"
+            },
+            {
+                "url": "assets/images/fishSkeleton.png",
+                "frameConfig": {
+                    "frameWidth": 204,
+                    "frameHeight": 90,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fishSkeleton"
+            },
+            {
+                "url": "assets/images/fishThree.png",
+                "type": "image",
+                "key": "fishThree"
+            },
+            {
+                "url": "assets/images/fishTwo.png",
+                "type": "image",
+                "key": "fishTwo"
+            },
+            {
+                "url": "assets/images/full-size.png",
+                "type": "image",
+                "key": "full-size"
+            },
+            {
+                "url": [
+                    "assets/sounds/gameEnd.mp3"
+                ],
+                "type": "audio",
+                "key": "gameEnd"
+            },
+            {
+                "url": "assets/images/half-size.png",
+                "type": "image",
+                "key": "half-size"
+            },
+            {
+                "url": "assets/images/lifeOff.png",
+                "type": "image",
+                "key": "lifeOff"
+            },
+            {
+                "url": "assets/images/lifeOn.png",
+                "type": "image",
+                "key": "lifeOn"
+            },
+            {
+                "url": "assets/images/play_again_button.png",
+                "type": "image",
+                "key": "play_again_button"
+            },
+            {
+                "url": "assets/images/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "assets/images/seahorse_img.png",
+                "type": "image",
+                "key": "seahorse_img"
+            },
+            {
+                "url": "assets/images/sfishOne.png",
+                "type": "image",
+                "key": "sfishOne"
+            },
+            {
+                "url": "assets/images/sfishThree.png",
+                "type": "image",
+                "key": "sfishThree"
+            },
+            {
+                "url": "assets/images/sfishTwo.png",
+                "type": "image",
+                "key": "sfishTwo"
+            },
+            {
+                "url": "assets/images/start.png",
+                "type": "image",
+                "key": "start"
+            },
+            {
+                "url": "src/scenes/prefabs/SubmarineCartoon.js",
+                "type": "script",
+                "key": "SubmarineCartoon"
+            },
+            {
+                "url": "assets/images/sunmarine.png",
+                "type": "image",
+                "key": "sunmarine"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

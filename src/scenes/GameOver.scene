@@ -1,0 +1,74 @@
+{
+    "id": "232bc741-30bb-491a-a9a2-260150689a92",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "GameOver",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "bcbd58d7-1de8-4868-8c43-0bc0da3661d2",
+            "label": "text_1",
+            "x": 690,
+            "y": 32,
+            "text": "Game Over",
+            "fontSize": "100px",
+            "fontStyle": "bold"
+        },
+        {
+            "type": "Image",
+            "id": "f07647ca-1f4d-493d-9dfd-1b78e6a24bfa",
+            "label": "fish_eat_fish",
+            "texture": {
+                "key": "fish-eat-fish"
+            },
+            "x": 960,
+            "y": 497,
+            "scaleX": 2.2,
+            "scaleY": 1.8
+        },
+        {
+            "type": "Image",
+            "id": "b4062c0d-0a00-4bef-8147-35045f4208cc",
+            "label": "playAgain",
+            "scope": "CLASS",
+            "texture": {
+                "key": "play_again_button"
+            },
+            "x": 960,
+            "y": 996
+        },
+        {
+            "type": "Text",
+            "id": "36924435-7e64-4e12-9bd6-5539405745d9",
+            "label": "text_2",
+            "x": 770,
+            "y": 864,
+            "text": "Your Score:",
+            "fontSize": "50px",
+            "fontStyle": "bold"
+        },
+        {
+            "type": "Text",
+            "id": "bbd7ac43-3e98-4c6d-8f8a-1918930aa3d2",
+            "label": "totalScore",
+            "scope": "CLASS",
+            "x": 1120,
+            "y": 868,
+            "text": "0",
+            "fontSize": "50px",
+            "fontStyle": "bold"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}
